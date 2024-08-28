@@ -1,4 +1,4 @@
-Ward No,Sample,pH,TDS(ppm),EC (µ),Temper°,Total hardness,Chloride(mg/L),Ammonia,Nitrate,Phosphate,Alkalinity,Iron,Free co2,Coliform
+Ward No,Sample,pH,TDS.ppm,EC,Temp,Totalhardness,Chloride,Ammonia,Nitrate,Phosphate,Alkalinity,Iron,Freeco2,Coliform
 5,S1,6.3,562,612,16.5,52,28.4,0.017,55.43,0.219,24,0.61,85,presence
 5,S2,6.6,512,543,17.4,92,10.65,0.005,40.6,0.487,16,0.69,85,absence
 5,S3,6.4,524,638,18.2,136,53.25,0.027,58.91,0.163,12,0.52,79.2,presence
